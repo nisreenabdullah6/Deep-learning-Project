@@ -22,7 +22,7 @@
 
 >This graph shows the number of images for each class in the training set.
 
-<img width="450" alt="Screen Shot 2021-11-15 at 7 19 52 PM" src="">
+<img width="450" alt="Screen Shot 2021-11-15 at 7 19 52 PM" src="https://github.com/nisreenabdullah6/Deep-learning-Project/blob/main/EDA%20Graph_2.png">
 
 ##  DL baseline model
 > My baseline model was is DL model that contains 1 hidden layer of 32 units and the accuracy on train set for 1 and val set for 0.9986, but there still has gaps to improve for accuracy and loss.
