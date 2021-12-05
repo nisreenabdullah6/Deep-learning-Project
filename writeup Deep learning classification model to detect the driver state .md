@@ -4,15 +4,15 @@ In this project our task was to get a dataset to build an deep learning classifi
  Goals:
 Build Deep learning classification model to predict the state of the driver .
 
-## Data Collection :
 ---
+
+## Data Collection :
 >**We chose the State Farm Distracted Driver Detection dataset for this project:**
 >- The dataset was obtained from  this website https://www.kaggle.com/c/state-farm-distracted-driver-detection/data 
 >- the dataset contains 10 classes each class contains around 2000 images .
 
- 
+ ---
 ## Prepossessing:
----
 #### Dataset Before:
 Training dataset: 10 classes 22,024 images
 
@@ -26,16 +26,16 @@ Validation dataset: 3 classes 2400 images
 Test dataset: 3 classes 2400 images
 
 - Image size:150*150
-- Reshape  
+- Reshape
+---  
 ## EDA graph:
----
 
 >This graph shows the number of images for each class in the training set.
 
 <img width="450" alt="Screen Shot 2021-11-15 at 7 19 52 PM" src="https://github.com/nisreenabdullah6/Deep-learning-Project/blob/main/Picture1.png">
+---
 
 ## Modeling:
-----
 
 ###   Baseline models:
 <img width="450" alt="Screen Shot 2021-11-15 at 7 19 52 PM" src="https://github.com/nisreenabdullah6/Deep-learning-Project/blob/main/Picture1.png">
@@ -73,16 +73,17 @@ Test F1 score: 0.930894
 
 ### Confusion Matrix
 
-
+---
 ## Conclusion:
 ---
 Most models give us a good results in the both training and validation set and no overfitting .
 VGG16 shows best result in the test set . 
+---
 
 ## Future work:
----
 - Collect more images from different angle.
 - Tuning the models (different number of units and layers change the values of the hyperparameter )
 
+---
 
 
