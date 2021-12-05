@@ -38,6 +38,7 @@ Test dataset: 3 classes 2400 images
 ## Modeling:
 
 ###   Baseline models:
+
 <img width="450" alt="Screen Shot 2021-11-15 at 7 19 52 PM" src="https://github.com/nisreenabdullah6/Deep-learning-Project/blob/main/Picture1.png">
 
 
@@ -52,8 +53,11 @@ Test dataset: 3 classes 2400 images
 
 
 ### Best Models :
+
 <img width="450" alt="Screen Shot 2021-11-15 at 7 19 52 PM" src="https://github.com/nisreenabdullah6/Deep-learning-Project/blob/main/Picture4.png">
+
 ### Best Model (VGG16)
+
 #### Results:
 Train Accuracy: 0.998618 
 
