@@ -32,7 +32,7 @@ Test dataset: 3 classes 2400 images
 
 >This graph shows the number of images for each class in the training set.
 
-<img width="450" alt="Screen Shot 2021-11-15 at 7 19 52 PM" src="">
+<img width="450" alt="Screen Shot 2021-11-15 at 7 19 52 PM" src="https://github.com/nisreenabdullah6/Deep-learning-Project/blob/main/Picture1.png">
 
 ## Modeling:
 ----
