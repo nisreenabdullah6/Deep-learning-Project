@@ -76,7 +76,7 @@ Test Recall: 0.929644
 Test F1 score: 0.930894 
 --- 
 ### Confusion Matrix
-<img width="450" alt="Screen Shot 2021-11-15 at 7 19 52 PM" src="https://github.com/nisreenabdullah6/Deep-learning-Project/blob/main/EDA%20Graph_2.png">
+<img width="450" alt="Screen Shot 2021-11-15 at 7 19 52 PM" src="https://github.com/nisreenabdullah6/Deep-learning-Project/blob/main/cinfision%20matrics(1).png">
 ---
 
 ## Conclusion:
