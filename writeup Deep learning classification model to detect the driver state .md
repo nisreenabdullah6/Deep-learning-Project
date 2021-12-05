@@ -79,9 +79,8 @@ Test F1 score: 0.930894
 
 ---
 ## Conclusion:
----
-Most models give us a good results in the both training and validation set and no overfitting .
-VGG16 shows best result in the test set . 
+- Most models give us a good results in the both training and validation set and no overfitting .
+- VGG16 shows best result in the test set . 
 ---
 
 ## Future work:
